@@ -1,0 +1,12 @@
+{
+  "name": "baronkhan-skills",
+  "owner": { "name": "Baron Khan" },
+  "plugins": [
+    {
+      "name": "stacked-prs",
+      "description": "Split an existing large branch into smaller stacked PRs on GitHub, Azure DevOps or GitLab, and manage the branches as PRs are merged.",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
